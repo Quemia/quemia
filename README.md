@@ -15,7 +15,7 @@
 
 <div>
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=quemia&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quemia&layout=compact&theme=radical">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quemia&layout=compact&theme=radical">
 </div>
 
 </div>
