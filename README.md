@@ -18,8 +18,8 @@
     <h2>⚙️ GitHub Analytics</h2>
       <img height="195px" src="https://github-readme-stats.vercel.app/api?username=quemia&show_icons=true&theme=radical&count_private=true"/>
       <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quemia&hide=python&layout=compact&theme=radical">
-          <br />
-          <br />
-      <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=quemia&theme=radical&hide_border=false"/>
+<!--           <br /> -->
+<!--           <br /> -->
+<!--       <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=quemia&theme=radical&hide_border=false"/> -->
   </div>
 </div>
