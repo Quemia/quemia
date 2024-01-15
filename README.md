@@ -1,7 +1,7 @@
 
 <!-- <img alt="Hi, I'm Quemia" src="./assets/cover.png" /> -->
 <div align="left">
-  <h2>Hello, meu nome é Quemia!</h2>
+  <h2>Hello, my name is Quemia!</h2>
     <p> 🔭 Exploring new technologies and developing software solutions.</p>
     <p> 📚 I'm a Bachelor's degree student in Computer Science</p>
     <p> 🌱 I’m currently learning about API, ReactJs and React Testing.</p>
