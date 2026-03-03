@@ -8,11 +8,12 @@
     <p> ⚡ Fun fact: I'm a swimming lover, but I'm afraid of the water</p>
   <br />
   
-  &nbsp;
+<!--  &nbsp;
     <span>
       <a href="mailto:quemiac@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flatsquare&logo=gmail&logoColor=white" /></a>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flatsquare&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quemia-caroline-alves-de-oliveira-635042209/)
     </span>
+    --!>
   
   <!-- <div display:"block" align="center"> -->
     <!-- <h2>⚙️ GitHub Analytics</h2> -->
